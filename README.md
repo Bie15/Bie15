@@ -6,4 +6,7 @@ Meu nome é Gabriel Lucena
 
 -Estou estudando linguagem JavaScript
 
--Utilizo este espaço para compartilhar meus projetos e experiencias!
+-Utilizo este espaço para trabalhos e compartilhamento dos meus projetos e experiencias!
+
+Entre em contato comigo
+gabrielsabariegolucena@gmail.com
