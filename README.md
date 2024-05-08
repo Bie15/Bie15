@@ -8,5 +8,6 @@ Meu nome é Gabriel Lucena
 
 -Utilizo este espaço para trabalhos e compartilhamento dos meus projetos e experiencias!
 
-Entre em contato comigo
+Entre em contato comigo no email:
+
 gabrielsabariegolucena@gmail.com
